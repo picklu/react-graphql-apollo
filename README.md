@@ -1,3 +1,4 @@
+# Learn React-GraphQL-Apollo following [How To GraphQL](https://www.howtographql.com/react-apollo)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
