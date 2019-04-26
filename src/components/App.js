@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import { Switch, Route } from 'react-router-dom'
 import LinkList from './LinkList'
-import '../styles/App.css';
 import CreateLink from './CreateLink'
 import Header from './Header'
 import Login from './Login'
