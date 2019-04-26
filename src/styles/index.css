@@ -25,7 +25,19 @@ input {
 }
 
 .w85 {
-  width: 85%;
+  width: 60%;
+}
+
+@media screen and (max-width: 781px) {
+  .w85 {
+    width: 80%  
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .w85 {
+    width: 100%;
+  }
 }
 
 .button {
